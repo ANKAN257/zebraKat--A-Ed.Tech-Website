@@ -1,0 +1,1 @@
+[&::-webkit-scrollbar]:hidden == How to create scrollable element in Tailwind without a scrollbar
